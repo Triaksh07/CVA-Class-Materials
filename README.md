@@ -2,7 +2,7 @@
 
 MAIN:
 
--PPTS:
+- PPTS:
 
 -- PPT 1 - Introduction, Tasks, Pipeline, Color Spaces, Contours
 
@@ -24,7 +24,27 @@ MAIN:
 
 -- PPT 10 - YOLOv1 (Loss, Architecture, ROI), RCNN vs YOLO
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
--NOTEBOOKS:
+- NOTEBOOKS:
 
--- 
+-- Content Based Image Retrieval - Reverse Image Search
+
+-- Geometric Image Transformations - From Scratch, Using OpenCV, Perspective/Projective
+
+-- Miscellaneous Notes on Deep Learning - AutoDiff, Activation Functions, Co-Adaptation, NNs, Internal Covariate Shift & Batch Normalisation
+
+-- Advanced CNN Architectures - InceptionV1/GoogleNet, ResNet
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- CLASSWORK:
+
+--
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- KAGGLE:
+
+-- triakshmitra@gmail.com
+-- Triaksh07

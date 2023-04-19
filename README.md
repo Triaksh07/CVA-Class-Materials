@@ -38,13 +38,47 @@ MAIN:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- OTHER MATERIALS:
+
+-- Predictive Modeler - Basic model structure demonstration 
+
+-- Scale Space - Difference of Gaussians, Octaves, Descriptors
+
+-- SIFT Scale Space and Other Doubts - Same as Scale Space
+
+-- Whitepaper Machine Learning - Full ML theory
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - CLASSWORK:
 
---
+-- Network Building Questions - 
+
+-- Mean Average Precision Questions - 
+
+-- Manual Perimeter Calculation Questions - 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - KAGGLE:
 
 -- triakshmitra@gmail.com
--- Triaksh07
+-- T * * * * * * * 7
+
+-- CVA_NN - [Incomplete]
+
+-- CVA_A1 - Transformation, Plot, Custom CNN Model, Loss Plot, Confusion Heatmapoz
+
+-- CVA_VGG - Transformation, Plot, VGG16, Callbacks
+
+-- CVA_C3 - [Irrelevant]
+
+-- CVA_Arch - GoogleNet/InceptionV1, ResNet, MobileNet Block Structures
+
+-- CVA_Embeddings - VGG16, Similar Image Search
+
+-- CVA_Triplets - Triple Generator, Siamese Model
+
+-- Siamese Network - [Original Notebook for Triplets] Triple Generator, Siamese Model, Embeddings, MTCNN
+
+-- CVA_YOLO - Config, YOLOv1

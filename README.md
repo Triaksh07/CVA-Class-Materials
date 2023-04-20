@@ -36,6 +36,8 @@ MAIN:
 
 -- Advanced CNN Architectures - InceptionV1/GoogleNet, ResNet
 
+-- ROC-AUC - Area Under Receiver Operating Characteristic Curve
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - OTHER MATERIALS:
@@ -52,11 +54,13 @@ MAIN:
 
 - CLASSWORK:
 
--- Network Building Questions - 
+-- CVA_Classwork - Template for Parameter & Loss Questions
 
--- Mean Average Precision Questions - 
+-- CVA_LossCalc - Solved example for Loss
 
--- Manual Perimeter Calculation Questions - 
+-- CVA_Parameters - Solved example for Parameters
+
+-- Practice Questions on manual parameter calc-pages-1 - Class example for Parameters
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
